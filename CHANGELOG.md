@@ -11,3 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2020-08-16
 ### Added
 - This CHANGELOG file 
+- README file, inspired by [the sabesan](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
