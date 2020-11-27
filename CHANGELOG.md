@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.4.0] - 2020-11-27
+### Changed
+- Smaller icons to other platforms
+
 ## [0.3.0] - 2020-10-30
 ### Changed
 - Update profile (generated with https://arturssmirnovs.github.io/github-profile-readme-generator/)
