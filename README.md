@@ -1,4 +1,5 @@
-### Hi 👋, my name is Tankred
+### Hi, my name is Tankred
+
 #### Learning by doing 
 I am interested in art and code
 
@@ -11,3 +12,4 @@ Skills: JS / HTML / CSS
 
 
 ![Profile views](https://gpvc.arturio.dev/tankred)  
+
